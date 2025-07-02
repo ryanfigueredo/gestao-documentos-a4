@@ -96,8 +96,21 @@ npm run build             # Build para produção
 - Opção de escolha de orgão dinâmico no cadastro
 - Melhorias no design e UX geral
 
+Master
+Email: ryan@elias.com
+Senha: 123456
+
+Consultor
+Email: joao@elias.com
+Senha: 123456
+
+# Deploy Público
+
+🔗 https://gestaodocumentos-a4.vercel.app
+
 ## Contato
 
+Uso exclusivo para fins acadêmicos. Projeto desenvolvido por Ryan D’Oliveira Lopes Figueredo.
 Desenvolvido por Ryan Figueredo - DMTN Sistemas
 
 LinkedIn: [https://www.linkedin.com/in/ryanfig/](https://www.linkedin.com/in/ryanfig/)
